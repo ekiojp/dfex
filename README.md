@@ -67,6 +67,7 @@ pip3 -r requirements_server.txt install
 ### Video
 [HITB GSEC (Aug 2019)](https://youtu.be/tm2dyKGVNko?t=7493)
 ### Slides
+[BSides Tokyo (Oct 2019)](https://speakerdeck.com/ekio_jp/dfex-dns-file-exfiltration-bsides-tokyo)
 [HITB GSEC (Aug 2019)](https://speakerdeck.com/ekio_jp/dfex-dns-file-exfiltration) or 
 [HITB GSEC (Aug 2019)](https://gsec.hitb.org/materials/sg2019/D2%20COMMSEC%20-%20DFEX%20%e2%80%93%20DNS%20File%20EXfiltration%20-%20Emilio%20Couto.pdf)
 
